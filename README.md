@@ -19,5 +19,5 @@
 |  8 | 25-10-2025  | 11  |  UTS  | [UTS](https://github.com/Jekizunn/TopUPPuts)| [laporan](https://docs.google.com/document/d/1EdIBctxzZBnOy3VqdCWsYp5BGsPDveH3/edit?usp=sharing&ouid=101631562303773564260&rtpof=true&sd=true)|
 |  9 | 15-10-2025  | 12  |  Akses Lokasi dengan GPS di Flutter  | [Modul 12](https://github.com/Jekizunn/lokasi_flutter_test)| [laporan](https://docs.google.com/document/d/1FachmA_rQXfLg-0GqkESna3I9cJkZdUM/edit?usp=sharing&ouid=101631562303773564260&rtpof=true&sd=true)|
 |  10 | 19-11-2025  | 13  |  Operasi CRUD  | [Modul 13](https://github.com/Jekizunn/crudapitest)| [laporan](https://docs.google.com/document/d/1Tty3GrDNSpODrLuUK5GEYNs1I7QIique/edit?usp=sharing&ouid=101631562303773564260&rtpof=true&sd=true)|
-|  11 | 8-12-2025  | 14  |  UAS(Top Upp)  | [Build](https://github.com/Jekizunn/TopUPPuts)[Backend](https://github.com/Jekizunn/backend_topupp/tree/main)| [laporan](https://docs.google.com/document/d/11JEFNs1DrOXRXUHIZ0In66cwAjJ11jnn/edit?usp=sharing&ouid=101631562303773564260&rtpof=true&sd=true)|
+|  11 | 8-12-2025  | 14  |  UAS(Top Upp)  | [Build](https://github.com/Jekizunn/TopUPPuts)|[Backend](https://github.com/Jekizunn/backend_topupp/tree/main)| [laporan](https://docs.google.com/document/d/11JEFNs1DrOXRXUHIZ0In66cwAjJ11jnn/edit?usp=sharing&ouid=101631562303773564260&rtpof=true&sd=true)|
 
